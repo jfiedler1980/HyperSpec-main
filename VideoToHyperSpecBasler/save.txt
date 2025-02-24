@@ -1,0 +1,16 @@
+exposure:40000.0
+filepath:C:\Users\jpanienka\Pictures\HyperSpecData_1000-1600nm
+filename:Messung_04_Raps_teflon
+samples:400
+SN:40484617
+width:560
+height:650
+bin:1
+yoff:220
+xoff:300
+w1:980.0
+w2:1270.0
+w3:1470.0
+p1:144
+p2:468
+p3:714
